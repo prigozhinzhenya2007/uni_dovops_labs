@@ -1,1 +1,1 @@
-# uni_dovops_labs
+# uni_dovops_labsКонфликтное изменение от разработчика 2
